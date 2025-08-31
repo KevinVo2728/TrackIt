@@ -1,0 +1,26 @@
+# TrackIt
+
+A simple command-line app designed to help users track their personal finances. It allows users to log income and expenses, calculate and view current balance, and keep a history of transactions.
+
+---
+
+## Project Goals
+
+- Allows users to log income and expenses in specific categories
+- Keep a running balance
+- Show a history of transactions from past months
+- Save/Load data from files
+
+---
+
+## Task List 
+
+- [] Create a menu system for specific user interaction
+- [] Store transactions using lists or dictionaries
+- [] Keep track of balance
+- [] Show transaction history with timestamps of specific months and years
+- [] Add save/load data from a file either using a text or JSON file
+
+---
+
+## Timeline
